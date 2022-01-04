@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trial Version Of App</string>
+    <string name="MainText">My First App!!!</string>
+    <string name="MainButtonText">Start</string>
+    <string name="BackButtonText">Back</string>
+    <string name="level">Level:</string>
+</resources>
